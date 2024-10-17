@@ -1,1 +1,1 @@
-#Curency Detetction
+# Curency Detection
